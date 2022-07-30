@@ -1,0 +1,40 @@
+.select-day {
+    background-color: black;
+    border: 1px solid #4a4a4a;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: white;
+    font-weight: 600;
+    margin-top: 8px;
+    line-height: normal;
+    padding: 15px 50px;
+    text-align: start;
+
+}
+
+.select-month {
+    background-color: black;
+    border: 1px solid #4a4a4a;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: white;
+    font-weight: 600;
+    margin-top: 8px;
+    line-height: normal;
+    padding: 15px 10px;
+    text-align: start;
+}
+
+.select-year {
+    background-color: black;
+    border: 1px solid #4a4a4a;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: white;
+    font-weight: 600;
+    margin-top: 8px;
+    line-height: normal;
+    padding: 15px 50px;
+    text-align: start;
+
+}
